@@ -167,7 +167,6 @@ ${simbolnya} ${prefix}pantun
 ${simbolnya} ${prefix}faktaunik
 ${simbolnya} ${prefix}styletext
 ${simbolnya} ${prefix}donasi
-${simbolnya} ${prefix}asupan
 ${simbolnya} ${prefix}nulis
 ${simbolnya} ${prefix}getnumber
 ${simbolnya} ${prefix}getpic
