@@ -73,7 +73,7 @@ const { wikiSearch } = require('./lib/wiki.js')
 const { sewabotkak } = require('./lib/sewabot.js')
 const { addBadword, delBadword, isKasar, addCountKasar, isCountKasar, delCountKasar } = require("./lib/badword");
 const { addCommands, getJawabanCmd, getSoalCmd, getCommandsPosi, checkCommands, isCreated, deleteCommands } = require('./lib/commands')
-const lolkey = '78bd89cd7b4d6205e3e18061' 
+const lolkey = '4ef1b11287339c1b10699ece' 
 
 			const tictactoe = JSON.parse(fs.readFileSync("./database/tictactoe.json"))
 			const _win = JSON.parse(fs.readFileSync('./database/tttwin.json'))
